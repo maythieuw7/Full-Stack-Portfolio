@@ -1,4 +1,4 @@
-These files are made from the full-stack codecademy course
+This was written with guidance from the codecademy full-stack course
 
 link to design spec:
 
